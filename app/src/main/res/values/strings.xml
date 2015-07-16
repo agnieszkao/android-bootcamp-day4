@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bootcamp YO!</string>
+    <string name="name_hint">name</string>
+    <string name="register">Register</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="name_missed">Enter your name</string>
+    <string name="registration_not_completed">Registration not completed</string>
+    <string name="message_sent">Message sent</string>
+    <string name="dialog_title">Are you sure you want to send the message?</string>
+
+</resources>
